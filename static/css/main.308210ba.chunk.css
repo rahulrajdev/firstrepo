@@ -1,0 +1,2 @@
+.BodyWrapper{display:grid;grid-template-columns:1fr;-webkit-align-content:center;align-content:center;justify-items:center}.CharacterWrapper,nav{display:grid;grid-template-columns:1fr 1fr 1fr}nav{position:fixed;top:0;height:75px;background:#add8e6}.jumbotron,nav{width:100%;justify-items:center;-webkit-align-content:center;align-content:center}.jumbotron{margin-top:75px;height:400px;display:grid;grid-template-columns:1fr;background:#d3d3d3}.avatar{cursor:pointer}
+/*# sourceMappingURL=main.308210ba.chunk.css.map */
